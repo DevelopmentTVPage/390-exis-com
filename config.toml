@@ -1,0 +1,12 @@
+#Hugo configuration
+title = "exis.com"
+baseURL = "https:\/\/exis.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+cookieDomain = "exis.com"
+
+[params]
+loginId = "1758904"
+subfolder = ""
